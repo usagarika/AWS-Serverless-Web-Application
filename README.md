@@ -15,7 +15,7 @@ AWS Amplify is used to host and manage the frontend of the application. It provi
 - Configured hosting settings and connected to a repository (optional for local development).
 - Deployed the initial frontend setup.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 03 01" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-22 005432.png" />
+<img width="1280" alt="Screenshot 2025-02-18 at 23 03 01" src="![Image](https://github.com/user-attachments/assets/2f6c17ba-6f8c-42a5-909e-87f2b20364d8)" />
 
 
 ---
