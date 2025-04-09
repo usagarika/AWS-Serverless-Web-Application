@@ -29,7 +29,7 @@ Lambda is used to process requests, perform business logic, and interact with Dy
 - Configured IAM permissions to allow Lambda to interact with DynamoDB and API Gateway securely.
 - Assigned appropriate execution roles and policies.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 04 15" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-22 005954.png" />
+<img width="1280" alt="Screenshot 2025-02-18 at 23 04 15" src="![Image](https://github.com/user-attachments/assets/8d81d84c-0e04-4147-b8c2-45b3eca21db7)" />
 
 
 ---
