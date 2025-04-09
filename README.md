@@ -42,7 +42,7 @@ DynamoDB serves as the database to store structured data for the application. It
 - Defined necessary attributes and indexes.
 - Configured read and write capacity settings.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 03 50" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-22 001700.png" />
+<img width="1280" alt="DynamoDB" src="DynamoDB.png" />
 
 ---
 
@@ -55,7 +55,7 @@ API Gateway acts as the intermediary that enables communication between the fron
 - Defined request and response mappings.
 - Configured IAM roles to allow secure API-Lambda communication.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 05 09" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-21 233543.png" />
+<img width="1280" alt="API gateway" src="API Gateway.png" />
 
 
 ---
@@ -68,8 +68,8 @@ Once the backend and database were set up, everything was integrated into the fr
 - Deployed final changes to AWS Amplify.
 - Verified application functionality.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 03 21" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-22 003412.png" />
-<img width="1280" alt="Screenshot 2025-02-18 at 23 03 24" src="C:/Users/sagar/OneDrive/Pictures/Screenshots/Screenshot 2025-02-22 003426.png" />
+<img width="1280" alt="Interface" src="Interface.png" />
+<img width="1280" alt="Result" src="Result.png" />
 
 
 ---
